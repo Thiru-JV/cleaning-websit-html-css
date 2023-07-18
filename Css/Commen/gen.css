@@ -1,0 +1,47 @@
+.max-w1{
+    max-width: 1200px;
+    margin: auto;
+
+}
+.max-w2{
+    max-width: 1000px;
+    margin: auto;
+}
+.d-flex{
+    display: flex;
+}
+.d-flex2{
+    display: flex;
+}
+.bag-col{
+    background-color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+.bc-color2{
+    background-color: #fff;
+}
+.bc-colo3{
+    background-color: #f7f7f7;
+}
+.jes-sb{
+    justify-content: space-between;
+}
+.pading1{
+    padding: 30px 8px;
+}
+.pading2{
+    padding: 0 30px;
+}
+.w30{
+    width: 30%;
+}
+.w60{
+    width: 60%;
+}
+.w40{
+    width: 40%;
+}
+img{
+    width: 100%;
+}
